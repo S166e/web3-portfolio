@@ -1,0 +1,9 @@
+{
+  "name": "web3-portfolio",
+  "version": "1.0.0",
+  "description": "Web3 Portfolio using Solidity and Hardhat",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
